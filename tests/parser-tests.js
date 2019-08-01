@@ -1,6 +1,7 @@
-require('../transforms');
+require('../src/transforms');
+const LexParser = require('../src/lexparser');
+
 const expect = require('chai').expect;
-const LexParser = require('../lexparser');
 const lexParser = new LexParser();
 
 // NEXT: See failing test below
