@@ -1,1 +1,1 @@
-# rita-script
+# rita v2.0 development
